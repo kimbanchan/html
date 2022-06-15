@@ -1,4 +1,7 @@
-h1{color: blue;font-weight:bold;font-size: 2em}
-th,td{border: 3px; border-color: blue}
-.g{color:green}
 #name{tont-size:30px}
+
+h1{text-align:center;font-family:monospace; font-size: 80px}
+.g{color: gray}
+td{text-align:center; border: 2px;}
+img{border-radius: 80px;}
+
